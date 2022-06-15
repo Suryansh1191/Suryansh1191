@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   
   Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on iOS Development (Swift/SwiftUI)
+- 🌱 I’m currently learning Objective-C for iOS Dev
 - 📫 How to reach me: suryansh.1191@gmail.com
 - ✨ My portfolio: <a href="https://suryansh1191.github.io/suryansh-potfolio/">Click hear <a>
 
