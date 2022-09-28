@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://suryansh1191.github.io/suryansh-potfolio/">Suryansh Bisen <a>Google DSC Lead '21</h1>
+# <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://suryansh1191.github.io/suryansh-potfolio/">Suryansh Bisen <a> iOS Developer & Google DSC Lead '21</h1>
   
   Here are some ideas to get you started:
 
