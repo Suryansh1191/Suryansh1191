@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   
   Here are some ideas to get you started:
 
-- 🔭 I’m currently working on iOS Development (Swift/SwiftUI)
-- 🌱 I’m currently learning Objective-C for iOS Dev
+- 🔭 I’m currently working on iOS Development (Swift/UIKit)
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: suryansh.1191@gmail.com
-- ✨ My portfolio: <a href="https://suryansh1191.github.io/suryansh-potfolio/">Click hear <a>
+- ✨ Lets connect <a href="https://www.linkedin.com/in/suryansh-bisen-83b7911b6/">Linkedin <a>
 
 
 <div align="center">
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <h3>Happy Codding <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulKesharwani353&repo=Co-Rakshak-Dwaar)](https://github.com/RahulKesharwani353/Co-Rakshak-Dwaar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryansh1191&repo=PrepCrypto)](https://github.com/Suryansh1191/PrepCrypto) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryansh1191&repo=edgeDedactionUsingOpenCV)](https://github.com/Suryansh1191/edgeDedactionUsingOpenCV) 
+
 
  
 ------
